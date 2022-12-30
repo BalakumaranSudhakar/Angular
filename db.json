@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 100,
+      "comment": "this is good!!  Give the Vitamins!!",
+      "date": "2022-01-01T08:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 50,
+      "comment": "this is much more better!!!",
+      "date": "2022-12-07T08:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Iphone 13pro Max",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 55000,
+      "comment": "Very Amezing one, this is using very well.",
+      "date": "2022-06-22T07:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Carrot",
+      "category": "Vegitables",
+      "freshness": "Brand New",
+      "price": 137,
+      "comment": "much more better for our health!!",
+      "date": "2022-08-10T07:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "POCO M2 ",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 12000,
+      "comment": "Very Greatfull and using easily , This is Gaming mobile..",
+      "date": "2022-02-14T08:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Somsung TV",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 89000,
+      "comment": "Lenth is satistification and display is good..",
+      "date": "2022-11-06T07:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
